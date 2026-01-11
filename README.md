@@ -1,76 +1,81 @@
-# Hi there 👋 I'm Himanshu Gupta
+👋 Hi, I’m Himanshu Gupta
 
-🚀 B.Tech CSE (Data Science) Student | Aspiring Problem Solver | Tech Enthusiast
+🌟 B.Tech CSE (Data Science) Student | Learner by Choice | Discipline over Motivation
 
-I’m a Computer Science student focusing on Data Science. I enjoy building efficient solutions, learning modern technologies, and improving my problem-solving skills. I love working on real-world projects and optimizing solutions.
+⸻
 
----
+🧭 Who I Am
 
-## 🧠 About Me
-- 🎓 Pursuing B.Tech in Computer Science (Data Science)
-- 💡 Interests: Data Science, Web Development, and Core DSA
-- 🛠️ I enjoy building projects, writing clean code, and optimizing algorithms
-- 🎯 Long-term goal: grow as a disciplined, impact-driven professional
-- ⚽ Sports & 🎮 Esports enthusiast
+🎓 A Computer Science (Data Science) undergraduate who believes in consistent effort, structured learning, and honest growth.
 
----
+🛠️ I’m not trying to show perfection — I’m focused on improving every day, learning from mistakes, and building skills step by step.
 
-## 🛠️ Tech Stack
+⚙️ I value discipline, patience, and clarity more than shortcuts or hype.
 
-**Languages**
-- C, C++, Java, SQL, (learning Python)
+⸻
 
-**Core Concepts**
-- Data Structures & Algorithms
-- Object-Oriented Programming
-- DBMS & SQL
+🔥 What I’m Working On
 
-**Tools & Platforms**
-- Git & GitHub
-- VS Code
-- MySQL
+📘 Strengthening my Data Structures & Algorithms foundation
+📊 Learning Data Science fundamentals with real use-cases
+🌐 Exploring Web Development basics
+🧠 Practicing problem-solving regularly
 
-**Currently Learning**
-- Data Science fundamentals
-- Python for data analysis
-- Web Development (HTML, CSS, JavaScript)
+⸻
 
----
+🧩 Tech Stack
 
-## 📌 Projects
+💻 Languages
+	•	C
+	•	C++
+	•	Java
+	•	SQL
 
-### Healthcare Management System
-- Built a basic healthcare management system using SQL and DB concepts.
-- Managed patient records and queries with structured data handling.
+🧠 Core Knowledge
+	•	Data Structures & Algorithms
+	•	Object-Oriented Programming
+	•	Database Management Systems
 
-More projects coming soon — stay tuned! (Add links to project repos here)
+🧰 Tools
+	•	Git & GitHub
+	•	VS Code
+	•	MySQL
 
----
+🌱 Currently Learning
+	•	Python for Data Analysis
+	•	Statistics & Data Handling
+	•	Frontend Basics (HTML, CSS, JavaScript)
 
-## 📊 GitHub Stats
-(You can remove or update these if you prefer other themes)
+⸻
 
-![Himanshu's GitHub stats](https://github-readme-stats.vercel.app/api?username=himaaanshuu&show_icons=true&theme=default)
+🏗️ Projects
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=himaaanshuu&layout=compact&theme=default)
+🏥 Healthcare Management System
 
----
+🗂️ Built using SQL & DBMS concepts
+📌 Focused on clean data structure and query efficiency
+📈 Helped me understand how databases work in real-world systems
 
-## 🏆 Certifications
-- Oracle Academy — SQL Certification
+More projects will be added as I grow and learn.
 
----
+⸻
 
-## 🌐 Connect With Me
-- ✉️ Email: [himanshu2005gupta@gmail.com](mailto:himanshu2005gupta@gmail.com)
-- 💼 LinkedIn: https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/  ← update this
-- 💻 GitHub: https://github.com/himaaanshuu
+📊 GitHub Activity
 
----
 
-## ✨ Quote I Live By
-> “Discipline, consistency, and effort always beat motivation.”
+⸻
 
----
+🎓 Certifications
+	•	🏅 Oracle Academy — SQL Certification
 
-If you like my work, consider starring my repositories — it motivates me to build and share more!
+⸻
+
+🤝 Let’s Connect
+
+📧 Email: himanshu2005gupta@gmail.com
+💼 LinkedIn: https://www.linkedin.com/feed/
+💻 GitHub: https://github.com
+
+⸻
+
+⭐ Thanks for visiting my profile. I’m learning, building, and moving forward — one step at a time.
